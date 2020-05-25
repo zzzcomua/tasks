@@ -1,0 +1,10 @@
+{
+    "require": {
+        "php": ">=7.1.*",
+        "illuminate/database": "^7.11"
+    },
+    "autoload": {
+        "psr-4":
+        {"Tasks\\": "src/"}
+    }
+}
